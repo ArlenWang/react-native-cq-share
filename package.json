@@ -11,5 +11,6 @@
     "share"
   ],
   "author": "cukiy",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage":"https://github.com/ArlenWang/react-native-cq-share"
 }
