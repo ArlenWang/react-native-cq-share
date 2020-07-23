@@ -1,6 +1,7 @@
 {
   "name": "react-native-cq-share",
   "version": "1.0.7",
+  "homepage":"https://github.com/ArlenWang/react-native-cq-share",
   "description": "Share pictures or graphic links using system sharing.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +12,5 @@
     "share"
   ],
   "author": "cukiy",
-  "license": "ISC",
-  "homepage":"https://github.com/ArlenWang/react-native-cq-share"
+  "license": "ISC"
 }
