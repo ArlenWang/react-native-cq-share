@@ -4,11 +4,12 @@
 ### Npm Install
 
 ```shell
-$ npm install --save git+ssh://git@github.com:Riant/react-native-cq-share.git
+$ npm i @arlenwang/react-native-cq-share
 ```
+0.6.x自动连
 
 ### Automatically Link
-
+<0.6命令
 ```shell
 $ react-native link react-native-cq-share
 ```
